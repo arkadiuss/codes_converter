@@ -1,0 +1,15 @@
+{
+  "name": "codes-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arkadiusz Kraus",
+  "license": "ISC",
+  "dependencies": {
+    "highlight.js": "^9.13.0",
+    "js-base64": "^2.4.9"
+  }
+}
